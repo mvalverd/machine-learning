@@ -11,5 +11,5 @@ The code contains a main function called `run`. This function defines a set of p
 
  Using these parameters a gradient descent search is executed on a sample data set of 100 ponts. Here is a visualization of the search running for 200 iterations using an initial guess of `m = 0`, `b = 0`, and a learning rate of `0.000005`.
 
-<img src="https://github.com/mvalverd/machine-learning/blob/main/algorithm-ml/001-gradiente-descent/gradient_descent_example.gif width="580">
+<img src="https://github.com/mvalverd/machine-learning/blob/main/algorithm-ml/001-gradiente-descent/gradient_descent_example.gif" width="580">
 
